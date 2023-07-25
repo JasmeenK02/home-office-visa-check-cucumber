@@ -1,0 +1,64 @@
+2023-07-25 23:07:65 INFO  StartPage :43 - Accept all cookies[[ChromeDriver: chrome on windows (a91b65993a72094afe7e56c3ab5f27c8)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-07-25 23:07:783 INFO  StartPage :53 - Click on Start buttonProxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Start now']'
+2023-07-25 23:07:440 INFO  SelectNationalityPage :39 - Select nationality from dropdown listAustraliafrom drop down[[ChromeDriver: chrome on windows (a91b65993a72094afe7e56c3ab5f27c8)] -> tag name: select]
+2023-07-25 23:07:676 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (a91b65993a72094afe7e56c3ab5f27c8)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:858 INFO  ReasonForTravelPage :42 - Select reason for visit
+2023-07-25 23:07:99 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (a91b65993a72094afe7e56c3ab5f27c8)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:196 INFO  ResultPage :36 - Get message for tourism visaProxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='You will not need a visa to come to the UK']'
+2023-07-25 23:07:455 INFO  StartPage :43 - Accept all cookies[[ChromeDriver: chrome on windows (497e9c4c73f3d04fc6c77abf123b5a5a)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-07-25 23:07:680 INFO  StartPage :53 - Click on Start buttonProxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Start now']'
+2023-07-25 23:07:893 INFO  SelectNationalityPage :39 - Select nationality from dropdown listChilefrom drop down[[ChromeDriver: chrome on windows (497e9c4c73f3d04fc6c77abf123b5a5a)] -> tag name: select]
+2023-07-25 23:07:488 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (497e9c4c73f3d04fc6c77abf123b5a5a)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:603 INFO  ReasonForTravelPage :42 - Select reason for visit
+2023-07-25 23:07:355 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (497e9c4c73f3d04fc6c77abf123b5a5a)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:385 INFO  DurationOfStayPage :36 - Select duration of stay
+2023-07-25 23:07:691 INFO  SelectNationalityPage :50 - click on continue buttonProxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Continue']'
+2023-07-25 23:07:733 INFO  WorkTypePage :35 - Select the ob typeProxy element for: DefaultElementLocator 'By.xpath: //input[@id='response-0']'
+2023-07-25 23:07:753 INFO  StartPage :43 - Accept all cookies[[ChromeDriver: chrome on windows (91702d63e9490b6cec5d600f7322cd74)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-07-25 23:07:366 INFO  StartPage :53 - Click on Start buttonProxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Start now']'
+2023-07-25 23:07:646 INFO  SelectNationalityPage :39 - Select nationality from dropdown listColombiafrom drop down[[ChromeDriver: chrome on windows (91702d63e9490b6cec5d600f7322cd74)] -> tag name: select]
+2023-07-25 23:07:387 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (91702d63e9490b6cec5d600f7322cd74)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:491 INFO  ReasonForTravelPage :42 - Select reason for visit
+2023-07-25 23:07:09 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (91702d63e9490b6cec5d600f7322cd74)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:534 INFO  StartPage :43 - Accept all cookies[[ChromeDriver: chrome on windows (fa887392d0a4463b5620a8ef26a83a4a)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-07-25 23:07:752 INFO  StartPage :53 - Click on Start buttonProxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Start now']'
+2023-07-25 23:07:64 INFO  SelectNationalityPage :39 - Select nationality from dropdown listAustraliafrom drop down[[ChromeDriver: chrome on windows (fa887392d0a4463b5620a8ef26a83a4a)] -> tag name: select]
+2023-07-25 23:07:168 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (fa887392d0a4463b5620a8ef26a83a4a)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:291 INFO  ReasonForTravelPage :42 - Select reason for visit
+2023-07-25 23:07:00 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (fa887392d0a4463b5620a8ef26a83a4a)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:94 INFO  StartPage :43 - Accept all cookies[[ChromeDriver: chrome on windows (4ccb37a356257a0026e1a7408aa1cf52)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-07-25 23:07:788 INFO  StartPage :53 - Click on Start buttonProxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Start now']'
+2023-07-25 23:07:204 INFO  SelectNationalityPage :39 - Select nationality from dropdown listChilefrom drop down[[ChromeDriver: chrome on windows (4ccb37a356257a0026e1a7408aa1cf52)] -> tag name: select]
+2023-07-25 23:07:747 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (4ccb37a356257a0026e1a7408aa1cf52)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:865 INFO  ReasonForTravelPage :42 - Select reason for visit
+2023-07-25 23:07:691 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (4ccb37a356257a0026e1a7408aa1cf52)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:838 INFO  DurationOfStayPage :36 - Select duration of stay
+2023-07-25 23:07:886 INFO  SelectNationalityPage :50 - click on continue buttonProxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Continue']'
+2023-07-25 23:07:908 INFO  WorkTypePage :35 - Select the ob typeProxy element for: DefaultElementLocator 'By.xpath: //input[@id='response-0']'
+2023-07-25 23:07:530 INFO  StartPage :43 - Accept all cookies[[ChromeDriver: chrome on windows (9b75d361b8d0eb2158533ca4b06ba12d)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-07-25 23:07:938 INFO  StartPage :53 - Click on Start buttonProxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Start now']'
+2023-07-25 23:07:315 INFO  SelectNationalityPage :39 - Select nationality from dropdown listColombiafrom drop down[[ChromeDriver: chrome on windows (9b75d361b8d0eb2158533ca4b06ba12d)] -> tag name: select]
+2023-07-25 23:07:561 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (9b75d361b8d0eb2158533ca4b06ba12d)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:679 INFO  ReasonForTravelPage :42 - Select reason for visit
+2023-07-25 23:07:379 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (9b75d361b8d0eb2158533ca4b06ba12d)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:247 INFO  StartPage :43 - Accept all cookies[[ChromeDriver: chrome on windows (fbec483c3e9e7ba5682d453dafbc783e)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-07-25 23:07:239 INFO  StartPage :53 - Click on Start buttonProxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Start now']'
+2023-07-25 23:07:940 INFO  SelectNationalityPage :39 - Select nationality from dropdown listAustraliafrom drop down[[ChromeDriver: chrome on windows (fbec483c3e9e7ba5682d453dafbc783e)] -> tag name: select]
+2023-07-25 23:07:254 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (fbec483c3e9e7ba5682d453dafbc783e)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:541 INFO  ReasonForTravelPage :42 - Select reason for visit
+2023-07-25 23:07:803 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (fbec483c3e9e7ba5682d453dafbc783e)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:09 INFO  StartPage :43 - Accept all cookies[[ChromeDriver: chrome on windows (4beb734eff94cdc58261e0a574201524)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-07-25 23:07:335 INFO  StartPage :53 - Click on Start buttonProxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Start now']'
+2023-07-25 23:07:865 INFO  SelectNationalityPage :39 - Select nationality from dropdown listChilefrom drop down[[ChromeDriver: chrome on windows (4beb734eff94cdc58261e0a574201524)] -> tag name: select]
+2023-07-25 23:07:226 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (4beb734eff94cdc58261e0a574201524)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:443 INFO  ReasonForTravelPage :42 - Select reason for visit
+2023-07-25 23:07:393 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (4beb734eff94cdc58261e0a574201524)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:408 INFO  DurationOfStayPage :36 - Select duration of stay
+2023-07-25 23:07:740 INFO  SelectNationalityPage :50 - click on continue buttonProxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Continue']'
+2023-07-25 23:07:823 INFO  WorkTypePage :35 - Select the ob typeProxy element for: DefaultElementLocator 'By.xpath: //input[@id='response-0']'
+2023-07-25 23:07:728 INFO  StartPage :43 - Accept all cookies[[ChromeDriver: chrome on windows (13f4c9e4af518c62e6597c9219a57c1b)] -> xpath: //button[contains(text(),'Accept additional cookies')]]
+2023-07-25 23:07:422 INFO  StartPage :53 - Click on Start buttonProxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Start now']'
+2023-07-25 23:07:868 INFO  SelectNationalityPage :39 - Select nationality from dropdown listColombiafrom drop down[[ChromeDriver: chrome on windows (13f4c9e4af518c62e6597c9219a57c1b)] -> tag name: select]
+2023-07-25 23:07:155 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (13f4c9e4af518c62e6597c9219a57c1b)] -> xpath: //button[normalize-space()='Continue']]
+2023-07-25 23:07:345 INFO  ReasonForTravelPage :42 - Select reason for visit
+2023-07-25 23:07:596 INFO  SelectNationalityPage :50 - click on continue button[[ChromeDriver: chrome on windows (13f4c9e4af518c62e6597c9219a57c1b)] -> xpath: //button[normalize-space()='Continue']]
